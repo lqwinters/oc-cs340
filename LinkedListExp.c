@@ -24,7 +24,7 @@ main(){
   }
   printf("Below is the linked list in reverse order\n");
   printList(top);
-  printf("This is the end of the list\n");
+  printf("This is the end of the list\n"); 
   printf("The max value of the list is: %d\n", maxNum(max));  
   
   
